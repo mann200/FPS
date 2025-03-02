@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FJQMySql.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.h.obj"
+"F:\UE5\MultiFPSTeach\Plugins\FJQMySql\Intermediate\Build\Win64\UnrealEditor\Development\FJQMySql\Module.FJQMySql.cpp.obj"
+"F:\UE5\MultiFPSTeach\Plugins\FJQMySql\Intermediate\Build\Win64\UnrealEditor\Development\FJQMySql\Module.FJQMySql.gen.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"F:\UE5\MultiFPSTeach\Plugins\FJQMySql\Intermediate\Build\Win64\UnrealEditor\Development\FJQMySql\UnrealEditor-FJQMySql.lib"

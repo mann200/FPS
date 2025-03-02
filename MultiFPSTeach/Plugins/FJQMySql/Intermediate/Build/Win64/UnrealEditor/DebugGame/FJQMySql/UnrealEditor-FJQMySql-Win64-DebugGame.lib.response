@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FJQMySql-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.NoUndef.h.obj"
+"F:\UE5\MultiFPSTeach\Plugins\FJQMySql\Intermediate\Build\Win64\UnrealEditor\DebugGame\FJQMySql\Module.FJQMySql.cpp.obj"
+"F:\UE5\MultiFPSTeach\Plugins\FJQMySql\Intermediate\Build\Win64\UnrealEditor\DebugGame\FJQMySql\Module.FJQMySql.gen.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"F:\UE5\MultiFPSTeach\Plugins\FJQMySql\Intermediate\Build\Win64\UnrealEditor\DebugGame\FJQMySql\UnrealEditor-FJQMySql-Win64-DebugGame.lib"

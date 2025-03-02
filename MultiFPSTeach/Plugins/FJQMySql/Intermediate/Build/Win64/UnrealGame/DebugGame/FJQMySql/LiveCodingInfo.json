@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FJQMySql.cpp.obj": [
+			"FJQMySql.cpp.obj",
+			"FJQMySqlBPLibrary.cpp.obj",
+			"DLLManager.cpp.obj",
+			"MySqlObject.cpp.obj",
+			"MySqlSubSystem.cpp.obj",
+			"MySqlTask.cpp.obj"
+		],
+		"Module.FJQMySql.gen.cpp.obj": [
+			"FJQMySql.init.gen.cpp.obj",
+			"FJQMySqlBPLibrary.gen.cpp.obj",
+			"MySqlObject.gen.cpp.obj",
+			"MySqlStruct.gen.cpp.obj",
+			"MySqlSubSystem.gen.cpp.obj"
+		]
+	}
+}

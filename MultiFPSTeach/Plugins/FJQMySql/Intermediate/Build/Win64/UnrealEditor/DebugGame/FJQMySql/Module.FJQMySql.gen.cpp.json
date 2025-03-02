@@ -1,0 +1,26 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\debuggame\\fjqmysql\\module.fjqmysql.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengine-5.0.3-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.nonoptimized.shadowerrors.noundef.h.pch",
+        "Includes": [
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\debuggame\\fjqmysql\\definitions.fjqmysql.h",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\fjqmysql\\fjqmysql.init.gen.cpp",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\fjqmysql\\fjqmysqlbplibrary.gen.cpp",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\source\\fjqmysql\\public\\fjqmysqlbplibrary.h",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\fjqmysql\\fjqmysqlbplibrary.generated.h",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\fjqmysql\\mysqlobject.gen.cpp",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\source\\fjqmysql\\public\\mysqlcore\\mysqlobject.h",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\fjqmysql\\mysqlobject.generated.h",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\fjqmysql\\mysqlstruct.gen.cpp",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\source\\fjqmysql\\public\\mysqlcore\\mysqlstruct.h",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\fjqmysql\\mysqlstruct.generated.h",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\fjqmysql\\mysqlsubsystem.gen.cpp",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\source\\fjqmysql\\public\\mysqlcore\\mysqlsubsystem.h",
+            "f:\\ue5\\multifpsteach\\plugins\\fjqmysql\\intermediate\\build\\win64\\unrealeditor\\inc\\fjqmysql\\mysqlsubsystem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
